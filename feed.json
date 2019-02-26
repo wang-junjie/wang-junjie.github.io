@@ -13,15 +13,15 @@
             "id": "https://wang-junjie.github.io/du-lesslesshei-ke-yu-hua-jia-greatergreater.html",
             "url": "https://wang-junjie.github.io/du-lesslesshei-ke-yu-hua-jia-greatergreater.html",
             "title": "读《黑客与画家》",
-            "summary": "1984年，《新闻周刊》的记者史蒂文·利维出版了历史上第一本介绍黑客的著作——《黑客：计算机革命的英雄》（Hackers: Heroes of the Computer Revolution）。在该书中，他进一步将黑客的价值观总结为六条“黑客伦理”（hacker ethic），直到今天这几条伦理都被视为这方面的最佳论述。 (1) 使用计算机以及所有有助于了解这个世界本质的事物都不应受到任何限制。任何事情都应该亲手尝试。 （Access to computers—and anything that might teach you something about the way the world works—should be unlimited and total. Always yield to the Hands-On Imperative!） (2) 信息应该全部免费。 （All information should be free.） (3) 不信任权威，提倡去中心化。 （Mistrust Authority—Promote&hellip;",
-            "content_html": "<p>1984年，《新闻周刊》的记者史蒂文·利维出版了历史上第一本介绍黑客的著作——《黑客：计算机革命的英雄》（Hackers: Heroes of the Computer Revolution）。在该书中，他进一步将黑客的价值观总结为六条“黑客伦理”（hacker ethic），直到今天这几条伦理都被视为这方面的最佳论述。</p>\n<br>　　(1) 使用计算机以及所有有助于了解这个世界本质的事物都不应受到任何限制。任何事情都应该亲手尝试。<br><br>　　（Access to computers—and anything that might teach you something about the way the world works—should be unlimited and total. Always yield to the Hands-On Imperative!）<br><br>　　(2) 信息应该全部免费。<br><br>　　（All information should be free.）<br><br>　　(3) 不信任权威，提倡去中心化。<br><br>　　（Mistrust Authority—Promote Decentralization.）<br><br>　　(4) 判断一名黑客的水平应该看他的技术能力，而不是看他的学历、年龄或地位等其他标准。<br><br>　　（Hackers should be judged by their hacking, not bogus criteria such as degrees, age, race, or position.）<br><br>　　(5) 你可以用计算机创造美和艺术。<br><br>　　（You can create art and beauty on a computer.）<br><br>　　(6) 计算机使生活更美好。<br><br>　　（Computers can change your life for the better.）<br><br>　　根据这六条“黑客伦理”，黑客价值观的核心原则可以概括成这样几点：分享、开放、民主、计算机的自由使用、进步。",
+            "summary": "译者序中提到了六条”黑客伦理“： 1. 使用计算机以及所有有助于了解这个世界本质的事物都不应受到任何限制。 任何事情都应该亲手尝试。（Access to computers—and anything that might teach you something about the way the world works—should be unlimited and total. Always yield to the Hands-On Imperative!） 2. 信息应该全部免费。（All information should be free.） 3. 不信任权威， 提倡去中心化。（Mistrust Authority—Promote Decentralization.） 4. 判断一名黑客的水平应该看他的技术能力， 而不是看他的学历、 年龄或地位等其他标准。（Hackers should be&hellip;",
+            "content_html": "<p>译者序中提到了六条”黑客伦理“：<br><br>1. 使用计算机以及所有有助于了解这个世界本质的事物都不应受到任何限制。 任何事情都应该亲手尝试。（Access to computers—and anything that might teach you something about the way the world works—should be unlimited and total. Always yield to the Hands-On Imperative!）<br>2. 信息应该全部免费。（All information should be free.）<br>3. 不信任权威， 提倡去中心化。（Mistrust Authority—Promote Decentralization.）<br>4. 判断一名黑客的水平应该看他的技术能力， 而不是看他的学历、 年龄或地位等其他标准。（Hackers should be judged by their hacking, not bogus criteria such as degrees, age, race, or position.）<br>5. 你可以用计算机创造美和艺术。（You can create art and beauty on a computer.）<br>6. 计算机使生活更美好。（Computers can change your life for the better.）</p>\n<p> </p>\n<p>评价一种语言的优劣不能简单地看最后的程序是否表达得很漂亮， 而要看程序从无到有的那条完成路径是否很漂亮。 某种设计使得最后的程序非常漂亮，但是不一定同时具备漂亮的编程过程。<br><br>我们常常采用错误的方法评价编程语言， 只看一眼最后完成的程序就做出判断。 同一个软件有两种不同语言开发的版本， 你发现其中一个版本比另一个版本短得多， 于是非常自信地认定前者的编程语言比后者的更好。 但是， 如果你从艺术创作的角度思考这个问题， 就不太可能这样评价编程语言。</p>",
             "author": {
                 "name": "王俊杰"
             },
             "tags": [
             ],
             "date_published": "2019-02-25T23:06:24+08:00",
-            "date_modified": "2019-02-25T23:06:24+08:00"
+            "date_modified": "2019-02-26T23:01:23+08:00"
         }
     ]
 }
